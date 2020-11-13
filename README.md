@@ -3,3 +3,6 @@
 
 
 2.predicting using DecisonTree and RandomForest
+
+
+3.Logistic Regression
