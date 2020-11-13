@@ -6,3 +6,5 @@
 
 
 3.Logistic Regression
+
+4.DESCRIPTIVE STATISTICS using python
